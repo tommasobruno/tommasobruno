@@ -6,10 +6,9 @@ Software engineer at [Kaluza](https://www.kaluza.com), working in identity and a
 +----------------------------------------------------------------+
 | voidptrr                                                       |
 +----------------------+-----------------------------------------+
-| languages            | C  Rust  TypeScript  Python             |
+| languages            | C  Rust  TypeScript  Zig                |
 | domains              | DevOps  IAM  System Programming         |
 +----------------------+-----------------------------------------+
-| now                  | building k4c and low-level tooling     |
-| next                 | exploring identity infrastructure ideas |
+| hobbies              | Korean  Games                           |
 +----------------------+-----------------------------------------+
 ```
